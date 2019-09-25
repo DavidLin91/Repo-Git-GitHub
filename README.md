@@ -30,10 +30,11 @@ Creating New Repository on GitHub
 3. Click Create Repository
 *This will bring you to a new page with Quick Setup
 4. Copy: git remote add origin <repo url>
+	
+Back to Terminal:
 
-9. Configure the remote repository in terminal
+Configure the remote repository in terminal
 	Paste: git remote add origin <repo url>
 
-10. Upload local repository content (from terminal) to a remote repository (GitHub)
-	git push --set-upstream origin master (done on initial setup)	
+Upload local repository content (from terminal) to a remote repository (GitHub)	git push --set-upstream origin master (done on initial setup)	
 
